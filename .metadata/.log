@@ -1,0 +1,2000 @@
+!SESSION 2025-09-28 12:39:07.383 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:39:17.062
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:39:17.091
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 12:39:19.575
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 12:39:19.950
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.e1c.g5.v8.dt.platform.standaloneserver.wst.core 1 0 2025-09-28 12:39:21.533
+!MESSAGE Начат однократный процесс перевода на новую версию: Переключение на сервер отладки, встроенный в автономный сервер.
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:39:24.403
+!MESSAGE CPU overload. Memory 4242246720 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 12:39:31.176
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:39:35.325
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:39:35.327
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 12:39:58.045
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-09-28 12:39:58.578
+!MESSAGE Saving dialog settings
+!SESSION 2025-09-28 12:40:03.262 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:40:09.065
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:40:09.138
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 12:40:10.893
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 12:40:11.426
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 12:40:20.937
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:40:23.470
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:40:23.476
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 12:40:29.949
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-09-28 12:40:30.312
+!MESSAGE Saving dialog settings
+!SESSION 2025-09-28 12:40:52.152 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:41:00.725
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:41:00.769
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 12:41:02.708
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 12:41:04.091
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:41:04.138
+!MESSAGE CPU overload. Memory 4196016352 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:41:08.381
+!MESSAGE CPU overload. Memory 4196317904 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 12:41:14.880
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:41:17.692
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:41:17.694
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:23.121
+!MESSAGE Попытка открытия ранее закрытого проекта: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:27.409
+!MESSAGE Project context is being started: fonecmid-diplom (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:29.217
+!MESSAGE Starting phase LINKING of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:29.218
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:29.948
+!MESSAGE Starting phase CHECKING of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:29.957
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:30.635
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:46:34.926
+!MESSAGE CPU overload. Memory 4202984968 used of 4294967296
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2025-09-28 12:46:35.819
+!MESSAGE Файл не найден: C:\fonecmid-diplom\fonecmid-diplom\.project.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Файл не найден: C:\fonecmid-diplom\fonecmid-diplom\.project.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:48)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:458)
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.detectContentType(FileBufferModelManager.java:596)
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager$FileBufferMapper.bufferCreated(FileBufferModelManager.java:343)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$11.run(TextFileBufferManager.java:775)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireBufferCreated(TextFileBufferManager.java:772)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:131)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4177)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1474)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3167)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2348)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2345)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3184)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3209)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:976)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:938)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:138)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:385)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:311)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4802)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:208)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:661)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:625)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:796)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1270)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3233)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3123)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3121)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3091)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3082)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:548)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:508)
+	at org.eclipse.ui.actions.OpenFileAction.openFile(OpenFileAction.java:103)
+	at org.eclipse.ui.actions.OpenSystemEditorAction.run(OpenSystemEditorAction.java:96)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:184)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1115)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:452)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: java.io.FileNotFoundException: \fonecmid-diplom\fonecmid-diplom\.project (Системе не удается найти указанный путь)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:453)
+	... 116 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 269 2025-09-28 12:46:35.822
+!MESSAGE Файл не найден: C:\fonecmid-diplom\fonecmid-diplom\.project.
+!STACK 0
+java.io.FileNotFoundException: \fonecmid-diplom\fonecmid-diplom\.project (Системе не удается найти указанный путь)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:453)
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.detectContentType(FileBufferModelManager.java:596)
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager$FileBufferMapper.bufferCreated(FileBufferModelManager.java:343)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$11.run(TextFileBufferManager.java:775)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireBufferCreated(TextFileBufferManager.java:772)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:131)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4177)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1474)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3167)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2348)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2345)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3184)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3209)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:976)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:938)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:138)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:385)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:311)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4802)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:208)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:661)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:625)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:796)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1270)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3233)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3123)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3121)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3091)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3082)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:548)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:508)
+	at org.eclipse.ui.actions.OpenFileAction.openFile(OpenFileAction.java:103)
+	at org.eclipse.ui.actions.OpenSystemEditorAction.run(OpenSystemEditorAction.java:96)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:184)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1115)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:452)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:46:51.202
+!MESSAGE CPU overload. Memory 3937045616 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:54.049
+!MESSAGE Попытка удаления проекта: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:46:57.511
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:57.971
+!MESSAGE Project context is started: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:57.973
+!MESSAGE Project context is being stopped: fonecmid-diplom (DELETE)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:46:58.933
+!MESSAGE Project context is stopped: fonecmid-diplom
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 12:47:37.598
+!MESSAGE EDT закрывается
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-09-28 12:47:37.907
+!MESSAGE Saving dialog settings
+!SESSION 2025-09-28 12:47:41.667 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:47:48.652
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:47:48.681
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 12:47:50.290
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 12:47:50.898
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 12:48:00.198
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui 4 4 2025-09-28 12:48:00.543
+!MESSAGE Unable to create part
+!STACK 1
+org.eclipse.ui.PartInitException: Невозможно определить URI для "/fonecmid-diplom/fonecmid-diplom/.project".
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3198)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3209)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:976)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:938)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:138)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:385)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:311)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1364)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:118)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:118)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1083)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.core.runtime.CoreException: Невозможно определить URI для "/fonecmid-diplom/fonecmid-diplom/.project".
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:239)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:116)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4177)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1474)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3167)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2292)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3184)
+	... 115 more
+!SUBENTRY 1 org.eclipse.core.filebuffers 4 0 2025-09-28 12:48:00.546
+!MESSAGE Невозможно определить URI для "/fonecmid-diplom/fonecmid-diplom/.project".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Невозможно определить URI для "/fonecmid-diplom/fonecmid-diplom/.project".
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:239)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:116)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4177)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1474)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3167)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2292)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3184)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3209)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:976)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:938)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:138)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:385)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:311)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1364)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:118)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:528)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:73)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:51)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:118)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:64)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:677)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:150)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:72)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:673)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1083)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+!SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2025-09-28 12:48:00.547
+!MESSAGE Невозможно определить URI для "/fonecmid-diplom/fonecmid-diplom/.project".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:48:02.987
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 12:48:02.988
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2025-09-28 12:49:48.242
+!MESSAGE Проект Diplom импортируется из информационной базы
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:50:42.330
+!MESSAGE Project context is being started: Diplom (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:50:44.018
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:50:44.018
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:50:44.524
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:50:44.531
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:50:45.140
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:50:48.529
+!MESSAGE CPU overload. Memory 4188632424 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:50:58.971
+!MESSAGE CPU overload. Memory 4257943472 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:51:01.263
+!MESSAGE Critical CPU overload. Memory 4050708936 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:51:05.916
+!MESSAGE CPU overload. Memory 3891111120 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 12:51:17.409
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 12:51:17.817
+!MESSAGE Project context is started: Diplom
+
+!ENTRY org.eclipse.equinox.security 1 0 2025-09-28 12:51:24.726
+!MESSAGE New keyring password generated. 
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:51:35.589
+!MESSAGE CPU overload. Memory 3297747472 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:51:43.908
+!MESSAGE Critical CPU overload. Memory 4169162896 used of 4294967296
+
+!ENTRY org.eclipse.xtext.conversion.impl.AbstractLexerBasedConverter 2 0 2025-09-28 12:51:48.582
+!MESSAGE org.eclipse.xtext.conversion.impl.AbstractLexerBasedConverter  - Only terminal rules are supported by lexer based converters but got ID which is an instance of ParserRule
+
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:52:12.810
+!MESSAGE CPU overload. Memory 3750308904 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.launching.ui 1 0 2025-09-28 12:53:41.890
+!MESSAGE Невозможно подготовить приложение к запуску проекта Diplom из-за отмены создания приложения.
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:54:00.205
+!MESSAGE CPU overload. Memory 3816735608 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:55:09.674
+!MESSAGE CPU overload. Memory 3974427576 used of 4294967296
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2025-09-28 12:55:14.506
+!MESSAGE Command 'org.eclipse.egit.ui.team.SimplePush' failed
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error executing 'org.eclipse.egit.ui.team.SimplePush': java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:179)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	... 33 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.egit.ui.internal.push.PushBranchWizard.<init>(PushBranchWizard.java:66)
+	at org.eclipse.egit.ui.internal.push.PushMode$1.getWizard(PushMode.java:38)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushBranchDialog(PushOperationUI.java:496)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.doPushToUpstream(PushOperationUI.java:456)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushToUpstream(PushOperationUI.java:367)
+	at org.eclipse.egit.ui.internal.repository.tree.command.PushConfiguredRemoteCommand.execute(PushConfiguredRemoteCommand.java:61)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 37 more
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:55:25.872
+!MESSAGE CPU overload. Memory 4036975072 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-09-28 12:55:29.485
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759046124880, extraInfo={}, message=Duplicate name 'Группа2РасширеннаяПодсказка', severity=MAJOR, sourceType=FormValidationChecker, checkId=SU104, featureId=-1, sourceObjectId=6524055322624, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.BmObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU104
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=6524055322624
+  OBJECT_ID=6524055322624
+  LEGACY=false
+  TOP_OBJECT_ID=6524055322624
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=6524055322624
+  ISSUE_TYPE=ERROR
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=Обработка ПанельАдминистрированияБСП Форма ОбщиеНастройки Форма
+  CHECK_UID_SEARCHING=form-legacy-emf-check
+  SUBSYSTEMS_SEARCHING=
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:55:45.297
+!MESSAGE Sustained CPU overload. Memory 3183073712 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-09-28 12:56:21.743
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759046178981, extraInfo={syntaxError=false, offset=6697, line=156, length=41, uriToProblem=#RU#/Diplom/src/ChartsOfCharacteristicTypes/ДополнительныеРеквизитыИСведения/Forms/ЗависимостьРеквизитов/\MBS/_method/ЗависимостиРеквизитовРеквизитНачалоВыбора/0}, message=Обработчик события "ЗависимостиРеквизитовРеквизитНачалоВыбора" следует разместить в области "ОбработчикиСобытийЭлементовТаблицыФормыЗависимостиРеквизитов", severity=MINOR, sourceType=BslEditor, checkId=SU78, featureId=-1, sourceObjectId=null, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU78
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplom/src/ChartsOfCharacteristicTypes/ДополнительныеРеквизитыИСведения/Forms/ЗависимостьРеквизитов/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplom/src/ChartsOfCharacteristicTypes/ДополнительныеРеквизитыИСведения/Forms/ЗависимостьРеквизитов/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MINOR
+  OBJECT_SEARCHING=ПланВидовХарактеристик ДополнительныеРеквизитыИСведения Форма ЗависимостьРеквизитов Форма Модуль
+  CHECK_UID_SEARCHING=module-structure-form-event-regions
+  SUBSYSTEMS_SEARCHING=
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-09-28 12:56:42.398
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759046196611, extraInfo={syntaxError=false, offset=43825, line=1019, length=9, uriToProblem=#RU#/Diplom/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S12}, message=Декларируемое свойство "ТипКонтактнойИнформации" с типом: "ПеречислениеСсылка.ТипыКонтактнойИнформации" не содержит возвращаемые типы "Неопределено", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759046196611, extraInfo={syntaxError=false, offset=41429, line=960, length=9, uriToProblem=#RU#/Diplom/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S7/\IP/\S2}, message=Возвращается недекларируемое свойство: "Представление", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759046196611, extraInfo={syntaxError=false, offset=43825, line=1019, length=9, uriToProblem=#RU#/Diplom/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S12}, message=Возвращается недекларируемое свойство: "Представление", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759046196611, extraInfo={syntaxError=false, offset=41429, line=960, length=9, uriToProblem=#RU#/Diplom/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S7/\IP/\S2}, message=Декларируемое свойство "ТипКонтактнойИнформации" с типом: "ПеречислениеСсылка.ТипыКонтактнойИнформации" не содержит возвращаемые типы "Неопределено", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplom, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplom
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplom/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:57:16.534
+!MESSAGE Critical CPU overload. Memory 3698060504 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:57:18.944
+!MESSAGE Critical CPU overload. Memory 3491989408 used of 4294967296
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2025-09-28 12:57:30.368
+!MESSAGE Command 'org.eclipse.egit.ui.team.SimplePush' failed
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error executing 'org.eclipse.egit.ui.team.SimplePush': java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:179)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	... 33 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.egit.ui.internal.push.PushBranchWizard.<init>(PushBranchWizard.java:66)
+	at org.eclipse.egit.ui.internal.push.PushMode$1.getWizard(PushMode.java:38)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushBranchDialog(PushOperationUI.java:496)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.doPushToUpstream(PushOperationUI.java:456)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushToUpstream(PushOperationUI.java:367)
+	at org.eclipse.egit.ui.internal.repository.tree.command.PushConfiguredRemoteCommand.execute(PushConfiguredRemoteCommand.java:61)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 37 more
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:58:15.497
+!MESSAGE CPU overload. Memory 3787688000 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:59:03.108
+!MESSAGE CPU overload. Memory 4020157248 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:59:23.622
+!MESSAGE CPU overload. Memory 3960614928 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:59:46.573
+!MESSAGE Sustained CPU overload. Memory 3774083448 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 12:59:49.571
+!MESSAGE Critical CPU overload. Memory 3776495552 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 13:00:23.803
+!MESSAGE CPU overload. Memory 3899153440 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 13:01:27.293
+!MESSAGE CPU overload. Memory 4082469224 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 13:01:47.578
+!MESSAGE CPU overload. Memory 3397006408 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 13:02:05.752
+!MESSAGE Sustained CPU overload. Memory 4016820336 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.launching.ui 1 0 2025-09-28 13:09:30.227
+!MESSAGE Невозможно подготовить приложение к запуску проекта Diplom из-за отмены создания приложения.
+
+!ENTRY com._1c.g5.v8.dt.launching.ui 1 0 2025-09-28 13:09:39.484
+!MESSAGE Невозможно подготовить приложение к запуску проекта Diplom из-за отмены создания приложения.
+
+!ENTRY com._1c.g5.v8.dt.launching.ui 1 0 2025-09-28 13:09:45.722
+!MESSAGE Невозможно подготовить приложение к запуску проекта Diplom из-за отмены создания приложения.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.407
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /Catalogs/ТомаХраненияФайлов/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/id3de28e34-3c1e-4e7f-a720-3418c8c9c496/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.409
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /DataProcessors/РаботаСФайлами/Forms/ПрисоединенныеФайлы/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/idcd6f96c7-33ee-42b1-bb81-ce7d9652337c/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.409
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /Catalogs/УчетныеЗаписиСинхронизацииФайлов/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/id0da8a402-ea0f-488a-a087-77990e85a643/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.410
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /Catalogs/Файлы/Forms/ФормаЭлемента/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/idcd6f96c7-33ee-42b1-bb81-ce7d9652337c/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.411
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /InformationRegisters/ПользовательскиеМакетыПечати/Forms/МакетыПечатныхФорм/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/id75378d9c-a364-4b46-a6d1-b745604c46a2/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.412
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /Catalogs/Файлы/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/idcd6f96c7-33ee-42b1-bb81-ce7d9652337c/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.413
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /Catalogs/Файлы/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/idcd6f96c7-33ee-42b1-bb81-ce7d9652337c/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 13:10:45.413
+!MESSAGE Некритичная проблема при загрузке конфигурации в информационную базу: Файл - /DataProcessors/РаботаСФайлами/Forms/ПрисоединенныйФайл/Ext/Help/ru.html: Возможно неверная ссылка ../../mdpicture/idcd6f96c7-33ee-42b1-bb81-ce7d9652337c/00000000-0000-0000-0000-000000000000 внутри справки.
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-09-28 13:43:35.422
+!MESSAGE Произошла внутренняя ошибка: "Переключение веток".
+!STACK 0
+com.e1c.g5.v8.dt.snapshot.integration.git.SnapshotIntegrationException: Устаревшее состояние репозитория
+	at com.e1c.g5.v8.dt.internal.snapshot.integration.git.SnapshotManagementOperation.checkDeltasUpToDate(SnapshotManagementOperation.java:370)
+	at com.e1c.g5.v8.dt.internal.snapshot.integration.git.SnapshotManagementOperation.prepare(SnapshotManagementOperation.java:174)
+	at com.e1c.g5.v8.dt.internal.snapshot.integration.git.SnapshotManagementJob.run(SnapshotManagementJob.java:40)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2025-09-28 14:00:45.298
+!MESSAGE Command 'org.eclipse.egit.ui.team.AddToIndex' failed
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error executing 'org.eclipse.egit.ui.team.AddToIndex': org.eclipse.jgit.api.errors.JGitInternalException: Exception caught during execution of add command
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:179)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.e4.core.di.InjectionException: org.eclipse.jgit.api.errors.JGitInternalException: Exception caught during execution of add command
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	... 33 more
+Caused by: org.eclipse.jgit.api.errors.JGitInternalException: Exception caught during execution of add command
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:244)
+	at org.eclipse.egit.ui.internal.repository.tree.command.AddToIndexCommand.execute(AddToIndexCommand.java:59)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at jdk.internal.reflect.GeneratedMethodAccessor229.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 37 more
+Caused by: java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	... 44 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:27:15.945
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 14:28:45.130
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 14:28:45.132
+!MESSAGE Существующий проект (на закрытии): Diplom, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-09-28 14:28:46.183
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:28:46.549
+!MESSAGE Project context is being stopped: Diplom (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:28:46.948
+!MESSAGE Project context is stopped: Diplom
+!SESSION 2025-09-28 14:32:46.206 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:32:54.199
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:32:54.231
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 14:32:55.891
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 14:32:56.590
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 14:33:06.229
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 14:33:11.142
+!MESSAGE CPU overload. Memory 4137633768 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 14:33:11.857
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 14:33:11.964
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:33:13.872
+!MESSAGE Project context is being started: Diplom (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:33:15.886
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:33:15.888
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:33:16.561
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:33:16.570
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:33:17.949
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 14:33:23.765
+!MESSAGE Ошибка аутентификации при подключении к агенту конфигуратора.
+!STACK 0
+com._1c.g5.designer.ssh.client.AuthenticationException: Authentication failure while establishing SSH session with Desginer agent.
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:109)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createClientAndConnect(DesignerSessionPool.java:713)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:602)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createConnection(DesignerSessionPool.java:461)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:324)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:1)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.computeExclusively(DesignerSessionPool.java:856)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.acquire(DesignerSessionPool.java:300)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.lambda$9(DesignerSessionThickClientLauncher.java:314)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.computeInSubTask(ProgressMonitors.java:412)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.openDesignerSession(DesignerSessionThickClientLauncher.java:311)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.openSession(DesignerSessionInfobaseConnection.java:299)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.connect(DesignerSessionInfobaseConnection.java:99)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ParticipantAwareInfobaseConnection.connect(ParticipantAwareInfobaseConnection.java:74)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ReconnectableInfobaseConnection.connect(ReconnectableInfobaseConnection.java:108)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronization.connectAndRestoreState(InfobaseSynchronization.java:224)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectAndRestoreState(InfobaseSynchronizationManager.java:1122)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectIfAssociated(InfobaseSynchronizationManager.java:985)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.start(InfobaseSynchronizationManager.java:750)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startWorkspaceProjects(WorkspaceOrchestrator.java:413)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.DtProjectResourceLifecycleBootstrap$DefaultContextsStartJob.run(DtProjectResourceLifecycleBootstrap.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:519)
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:86)
+	... 32 more
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 14:33:40.103
+!MESSAGE Ошибка аутентификации при подключении к агенту конфигуратора.
+!STACK 0
+com._1c.g5.designer.ssh.client.AuthenticationException: Authentication failure while establishing SSH session with Desginer agent.
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:109)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createClientAndConnect(DesignerSessionPool.java:713)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:602)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createConnection(DesignerSessionPool.java:461)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:324)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:1)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.computeExclusively(DesignerSessionPool.java:856)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.acquire(DesignerSessionPool.java:300)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.lambda$9(DesignerSessionThickClientLauncher.java:314)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.computeInSubTask(ProgressMonitors.java:412)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.openDesignerSession(DesignerSessionThickClientLauncher.java:311)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.openSession(DesignerSessionInfobaseConnection.java:299)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.connect(DesignerSessionInfobaseConnection.java:99)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ParticipantAwareInfobaseConnection.connect(ParticipantAwareInfobaseConnection.java:74)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ReconnectableInfobaseConnection.connect(ReconnectableInfobaseConnection.java:108)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronization.connectAndRestoreState(InfobaseSynchronization.java:224)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectAndRestoreState(InfobaseSynchronizationManager.java:1122)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectIfAssociated(InfobaseSynchronizationManager.java:985)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.start(InfobaseSynchronizationManager.java:750)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startWorkspaceProjects(WorkspaceOrchestrator.java:413)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.DtProjectResourceLifecycleBootstrap$DefaultContextsStartJob.run(DtProjectResourceLifecycleBootstrap.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:519)
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:86)
+	... 33 more
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 14:33:59.641
+!MESSAGE Ошибка аутентификации при подключении к агенту конфигуратора.
+!STACK 0
+com._1c.g5.designer.ssh.client.AuthenticationException: Authentication failure while establishing SSH session with Desginer agent.
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:109)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createClientAndConnect(DesignerSessionPool.java:713)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:602)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createConnection(DesignerSessionPool.java:461)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:324)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:1)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.computeExclusively(DesignerSessionPool.java:856)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.acquire(DesignerSessionPool.java:300)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.lambda$9(DesignerSessionThickClientLauncher.java:314)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.computeInSubTask(ProgressMonitors.java:412)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.openDesignerSession(DesignerSessionThickClientLauncher.java:311)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.openSession(DesignerSessionInfobaseConnection.java:299)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.connect(DesignerSessionInfobaseConnection.java:99)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ParticipantAwareInfobaseConnection.connect(ParticipantAwareInfobaseConnection.java:74)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ReconnectableInfobaseConnection.connect(ReconnectableInfobaseConnection.java:108)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronization.connectAndRestoreState(InfobaseSynchronization.java:224)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectAndRestoreState(InfobaseSynchronizationManager.java:1122)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectIfAssociated(InfobaseSynchronizationManager.java:985)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.start(InfobaseSynchronizationManager.java:750)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startWorkspaceProjects(WorkspaceOrchestrator.java:413)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.DtProjectResourceLifecycleBootstrap$DefaultContextsStartJob.run(DtProjectResourceLifecycleBootstrap.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:519)
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:86)
+	... 34 more
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 14:34:34.585
+!MESSAGE Ошибка аутентификации при подключении к агенту конфигуратора.
+!STACK 0
+com._1c.g5.designer.ssh.client.AuthenticationException: Authentication failure while establishing SSH session with Desginer agent.
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:109)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createClientAndConnect(DesignerSessionPool.java:713)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:602)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createConnection(DesignerSessionPool.java:461)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:324)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:1)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.computeExclusively(DesignerSessionPool.java:856)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.acquire(DesignerSessionPool.java:300)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.lambda$9(DesignerSessionThickClientLauncher.java:314)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.computeInSubTask(ProgressMonitors.java:412)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.openDesignerSession(DesignerSessionThickClientLauncher.java:311)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.openSession(DesignerSessionInfobaseConnection.java:299)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.connect(DesignerSessionInfobaseConnection.java:99)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ParticipantAwareInfobaseConnection.connect(ParticipantAwareInfobaseConnection.java:74)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ReconnectableInfobaseConnection.connect(ReconnectableInfobaseConnection.java:108)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronization.connectAndRestoreState(InfobaseSynchronization.java:224)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectAndRestoreState(InfobaseSynchronizationManager.java:1122)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectIfAssociated(InfobaseSynchronizationManager.java:985)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.start(InfobaseSynchronizationManager.java:750)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startWorkspaceProjects(WorkspaceOrchestrator.java:413)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.DtProjectResourceLifecycleBootstrap$DefaultContextsStartJob.run(DtProjectResourceLifecycleBootstrap.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:519)
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:86)
+	... 35 more
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 2 0 2025-09-28 14:34:59.516
+!MESSAGE Ошибка аутентификации при подключении к агенту конфигуратора.
+!STACK 0
+com._1c.g5.designer.ssh.client.AuthenticationException: Authentication failure while establishing SSH session with Desginer agent.
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:109)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createClientAndConnect(DesignerSessionPool.java:713)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:602)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.connectWithRetry(DesignerSessionPool.java:616)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.createConnection(DesignerSessionPool.java:461)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:324)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool$1.compute(DesignerSessionPool.java:1)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.computeExclusively(DesignerSessionPool.java:856)
+	at com._1c.g5.v8.dt.internal.platform.services.core.runtimes.execution.DesignerSessionPool.acquire(DesignerSessionPool.java:300)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.lambda$9(DesignerSessionThickClientLauncher.java:314)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.computeInSubTask(ProgressMonitors.java:412)
+	at com._1c.g5.v8.dt.platform.services.core.runtimes.execution.impl.DesignerSessionThickClientLauncher.openDesignerSession(DesignerSessionThickClientLauncher.java:311)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.openSession(DesignerSessionInfobaseConnection.java:299)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.DesignerSessionInfobaseConnection.connect(DesignerSessionInfobaseConnection.java:99)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ParticipantAwareInfobaseConnection.connect(ParticipantAwareInfobaseConnection.java:74)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.connections.ReconnectableInfobaseConnection.connect(ReconnectableInfobaseConnection.java:108)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronization.connectAndRestoreState(InfobaseSynchronization.java:224)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectAndRestoreState(InfobaseSynchronizationManager.java:1122)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.connectIfAssociated(InfobaseSynchronizationManager.java:985)
+	at com._1c.g5.v8.dt.internal.platform.services.core.infobases.sync.InfobaseSynchronizationManager.start(InfobaseSynchronizationManager.java:750)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startWorkspaceProjects(WorkspaceOrchestrator.java:413)
+	at com._1c.g5.v8.dt.internal.core.lifecycle.DtProjectResourceLifecycleBootstrap$DefaultContextsStartJob.run(DtProjectResourceLifecycleBootstrap.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:519)
+	at com._1c.g5.designer.ssh.client.DesignerClient.connect(DesignerClient.java:86)
+	... 36 more
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:35:14.883
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:35:15.140
+!MESSAGE Project context is started: Diplom
+
+!ENTRY org.eclipse.ui 4 4 2025-09-28 14:47:48.502
+!MESSAGE Error creating editor management policy for editor id com._1c.g5.v8.dt.cmi.ui.editors.commandInterfaceEditor
+!STACK 1
+org.eclipse.core.runtime.CoreException: Модулю com._1c.g5.v8.dt.cmi.ui не удалось загрузить класс com._1c.g5.v8.dt.internal.cmi.ui.editors.CommandInterfaceMatchingStrategy.
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:242)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:225)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:987)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:255)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:281)
+	at org.eclipse.ui.internal.registry.EditorDescriptor.getEditorMatchingStrategy(EditorDescriptor.java:614)
+	at org.eclipse.ui.internal.WorkbenchPage.checkEditor(WorkbenchPage.java:2264)
+	at org.eclipse.ui.internal.WorkbenchPage.findEditors(WorkbenchPage.java:2236)
+	at org.eclipse.ui.internal.WorkbenchPage.findEditor(WorkbenchPage.java:2224)
+	at org.eclipse.ui.NavigationLocation.getEditorPart(NavigationLocation.java:47)
+	at com._1c.g5.v8.dt.md.ui.editor.base.DtEditorInputNavigationLocation.getEditorPart(DtEditorInputNavigationLocation.java:88)
+	at com._1c.g5.v8.dt.md.ui.editor.base.DtEditorInputNavigationLocation.getEditorPart(DtEditorInputNavigationLocation.java:1)
+	at org.eclipse.ui.NavigationLocation.getText(NavigationLocation.java:57)
+	at org.eclipse.ui.internal.NavigationHistoryEntry.<init>(NavigationHistoryEntry.java:52)
+	at org.eclipse.ui.internal.NavigationHistory.createEntry(NavigationHistory.java:616)
+	at org.eclipse.ui.internal.NavigationHistory.addEntry(NavigationHistory.java:360)
+	at org.eclipse.ui.internal.NavigationHistory.lambda$0(NavigationHistory.java:209)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4046)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3662)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: java.lang.ClassNotFoundException: com._1c.g5.v8.dt.internal.cmi.ui.editors.CommandInterfaceMatchingStrategy cannot be found by com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:223)
+	... 42 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2025-09-28 14:47:48.503
+!MESSAGE Модулю com._1c.g5.v8.dt.cmi.ui не удалось загрузить класс com._1c.g5.v8.dt.internal.cmi.ui.editors.CommandInterfaceMatchingStrategy.
+!STACK 0
+java.lang.ClassNotFoundException: com._1c.g5.v8.dt.internal.cmi.ui.editors.CommandInterfaceMatchingStrategy cannot be found by com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014
+	at org.eclipse.osgi.internal.loader.BundleLoader.generateException(BundleLoader.java:541)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:536)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:622)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:223)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:987)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:255)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:65)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:281)
+	at org.eclipse.ui.internal.registry.EditorDescriptor.getEditorMatchingStrategy(EditorDescriptor.java:614)
+	at org.eclipse.ui.internal.WorkbenchPage.checkEditor(WorkbenchPage.java:2264)
+	at org.eclipse.ui.internal.WorkbenchPage.findEditors(WorkbenchPage.java:2236)
+	at org.eclipse.ui.internal.WorkbenchPage.findEditor(WorkbenchPage.java:2224)
+	at org.eclipse.ui.NavigationLocation.getEditorPart(NavigationLocation.java:47)
+	at com._1c.g5.v8.dt.md.ui.editor.base.DtEditorInputNavigationLocation.getEditorPart(DtEditorInputNavigationLocation.java:88)
+	at com._1c.g5.v8.dt.md.ui.editor.base.DtEditorInputNavigationLocation.getEditorPart(DtEditorInputNavigationLocation.java:1)
+	at org.eclipse.ui.NavigationLocation.getText(NavigationLocation.java:57)
+	at org.eclipse.ui.internal.NavigationHistoryEntry.<init>(NavigationHistoryEntry.java:52)
+	at org.eclipse.ui.internal.NavigationHistory.createEntry(NavigationHistory.java:616)
+	at org.eclipse.ui.internal.NavigationHistory.addEntry(NavigationHistory.java:360)
+	at org.eclipse.ui.internal.NavigationHistory.lambda$0(NavigationHistory.java:209)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4046)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3662)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:51:52.811
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:51:55.385
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:03.436
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:06.036
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:17.358
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:34.292
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:36.543
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:37.104
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:41.712
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:48.506
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:52:52.486
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:54:43.050
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:55:12.702
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:55:13.879
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:55:20.099
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 14:55:22.795
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-09-28 14:55:22.796
+!MESSAGE Существующий проект (на закрытии): Diplom, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-09-28 14:55:23.624
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:55:23.832
+!MESSAGE Project context is being stopped: Diplom (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:55:24.174
+!MESSAGE Project context is stopped: Diplom
+!SESSION 2025-09-28 14:55:30.692 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:55:38.308
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:55:38.415
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-09-28 14:55:39.582
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-09-28 14:55:40.713
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\diplom\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-09-28 14:55:53.501
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 14:55:59.128
+!MESSAGE CPU overload. Memory 4208430080 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 14:56:00.673
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-09-28 14:56:00.756
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 14:56:01.312
+!MESSAGE Critical CPU overload. Memory 4088709328 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:56:03.833
+!MESSAGE Project context is being started: Diplom (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:06.338
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:06.339
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:06.910
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:06.917
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:07.960
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-09-28 14:56:13.910
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplom
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-09-28 14:56:14.159
+!MESSAGE Project context is started: Diplom
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 14:56:19.694
+!MESSAGE CPU overload. Memory 4170400112 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-09-28 14:56:22.074
+!MESSAGE Critical CPU overload. Memory 4074326920 used of 4294967296
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:56:27.751
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:56:39.184
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:56:40.430
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:56:55.667
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:57:10.448
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:57:11.937
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:57:15.871
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-09-28 14:57:17.906
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
