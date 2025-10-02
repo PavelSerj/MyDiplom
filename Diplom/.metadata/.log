@@ -1,0 +1,1066 @@
+!SESSION 2025-10-02 20:52:12.239 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\MyDiplomTest
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 20:52:21.638
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 20:52:21.669
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-10-02 20:52:24.649
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-10-02 20:52:24.863
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\MyDiplomTest\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:52:25.268
+!MESSAGE CPU overload. Memory 4271704104 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:52:27.474
+!MESSAGE Critical CPU overload. Memory 4272467448 used of 4294967296
+
+!ENTRY com.e1c.g5.v8.dt.platform.standaloneserver.wst.core 1 0 2025-10-02 20:52:28.166
+!MESSAGE Начат однократный процесс перевода на новую версию: Переключение на сервер отладки, встроенный в автономный сервер.
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:52:29.588
+!MESSAGE Critical CPU overload. Memory 4223260664 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-10-02 20:52:38.436
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:52:43.954
+!MESSAGE CPU overload. Memory 4215535904 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 20:52:44.041
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 20:52:44.058
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2025-10-02 20:53:09.978
+!MESSAGE Проект Diplomempty импортируется из информационной базы
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 20:54:12.727
+!MESSAGE Project context is being started: Diplomempty (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:15.552
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:15.557
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:16.580
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:16.596
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:17.217
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:20.826
+!MESSAGE CPU overload. Memory 4236237048 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:31.346
+!MESSAGE CPU overload. Memory 4226544488 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:37.521
+!MESSAGE Sustained CPU overload. Memory 4249733160 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:39.746
+!MESSAGE Critical CPU overload. Memory 4237906440 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:41.959
+!MESSAGE Critical CPU overload. Memory 4136683608 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:44.141
+!MESSAGE Critical CPU overload. Memory 4149917664 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:46.158
+!MESSAGE Critical CPU overload. Memory 3952575624 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:48.884
+!MESSAGE Critical CPU overload. Memory 4102581464 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:51.116
+!MESSAGE Critical CPU overload. Memory 4196033312 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:53.118
+!MESSAGE Critical CPU overload. Memory 4023200304 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 20:54:55.998
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 20:54:56.456
+!MESSAGE Project context is started: Diplomempty
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:54:59.238
+!MESSAGE CPU overload. Memory 3970360920 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:01.528
+!MESSAGE Critical CPU overload. Memory 4146767360 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:03.997
+!MESSAGE Critical CPU overload. Memory 4009450280 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:06.054
+!MESSAGE Critical CPU overload. Memory 4195359304 used of 4294967296
+
+!ENTRY org.eclipse.equinox.security 1 0 2025-10-02 20:55:09.996
+!MESSAGE New keyring password generated. 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 4 0 2025-10-02 20:55:10.383
+!MESSAGE Project Diplomempty should have persisted synchronization state, but persisted state not found. Unsynchronized state will be used.
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:34.648
+!MESSAGE CPU overload. Memory 4032202640 used of 4294967296
+
+!ENTRY org.eclipse.xtext.conversion.impl.AbstractLexerBasedConverter 2 0 2025-10-02 20:55:41.749
+!MESSAGE org.eclipse.xtext.conversion.impl.AbstractLexerBasedConverter  - Only terminal rules are supported by lexer based converters but got ID which is an instance of ParserRule
+
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:42.887
+!MESSAGE CPU overload. Memory 3811587808 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:55:44.941
+!MESSAGE Critical CPU overload. Memory 3832882888 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:56:03.348
+!MESSAGE CPU overload. Memory 3876579024 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:56:09.536
+!MESSAGE CPU overload. Memory 3782802728 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:58:02.133
+!MESSAGE CPU overload. Memory 4017208800 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-10-02 20:58:03.647
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759420681809, extraInfo={}, message=Duplicate name 'Группа2РасширеннаяПодсказка', severity=MAJOR, sourceType=FormValidationChecker, checkId=SU104, featureId=-1, sourceObjectId=6554120093696, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.BmObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU104
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=6554120093696
+  OBJECT_ID=6554120093696
+  LEGACY=false
+  TOP_OBJECT_ID=6554120093696
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=6554120093696
+  ISSUE_TYPE=ERROR
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=Обработка ПанельАдминистрированияБСП Форма ОбщиеНастройки Форма
+  CHECK_UID_SEARCHING=form-legacy-emf-check
+  SUBSYSTEMS_SEARCHING=
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:58:19.222
+!MESSAGE CPU overload. Memory 3933099968 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 20:59:05.905
+!MESSAGE CPU overload. Memory 3722417928 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-10-02 20:59:23.660
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759420748995, extraInfo={syntaxError=false, offset=57119, line=1151, length=5, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеПечатью/\MBS/0/\DS0/\I/\PP0/\I/\M1/\S2}, message=Декларируемое свойство "ИмяКаталога" с типом: "Строка" не возвращается, severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеПечатью Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+Marker [createdAt=1759420751342, extraInfo={syntaxError=false, offset=99080, line=2384, length=25, uriToProblem=#RU#/Diplomempty/src/CommonForms/ПечатьДокументов/\MBS/_method/ТекущаяПечатнаяФормаВыбор/0}, message=Обработчик события "ТекущаяПечатнаяФормаВыбор" следует разместить в области "ОбработчикиСобытийЭлементовШапкиФормы", severity=MINOR, sourceType=BslEditor, checkId=SU78, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU78
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonForms/ПечатьДокументов/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonForms/ПечатьДокументов/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MINOR
+  OBJECT_SEARCHING=ОбщаяФорма ПечатьДокументов Форма Модуль
+  CHECK_UID_SEARCHING=module-structure-form-event-regions
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+Marker [createdAt=1759420748995, extraInfo={syntaxError=false, offset=57119, line=1151, length=5, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеПечатью/\MBS/0/\DS0/\I/\PP0/\I/\M1/\S2}, message=Декларируемое свойство "СтруктураДокумента" с типом: "Структура" не возвращается, severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеПечатью Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+Marker [createdAt=1759420748995, extraInfo={syntaxError=false, offset=56094, line=1126, length=13, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеПечатью/\MBS/0/\DS0/\I/\PP0/\I/\M0/\S4}, message=Декларируемое свойство "ПоследняяВыделеннаяОбласть" с типом: "Структура" не возвращается, severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеПечатью Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+Marker [createdAt=1759420748995, extraInfo={syntaxError=false, offset=57119, line=1151, length=5, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеПечатью/\MBS/0/\DS0/\I/\PP0/\I/\M1/\S2}, message=Возвращается недекларируемое свойство: "НастройкиСтраницыМакета, Тип", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеПечатью Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+Marker [createdAt=1759420748995, extraInfo={syntaxError=false, offset=56094, line=1126, length=13, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеПечатью/\MBS/0/\DS0/\I/\PP0/\I/\M0/\S4}, message=Возвращается недекларируемое свойство: "ПоследняяВыведеннаяОбласть", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеПечатью/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеПечатью Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы Печать
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:00:07.156
+!MESSAGE CPU overload. Memory 3809015200 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:00:09.538
+!MESSAGE Sustained CPU overload. Memory 3942870416 used of 4294967296
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2025-10-02 21:02:03.249
+!MESSAGE Command 'org.eclipse.egit.ui.team.SimplePush' failed
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error executing 'org.eclipse.egit.ui.team.SimplePush': java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:179)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	... 33 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.egit.ui.internal.push.PushBranchWizard.<init>(PushBranchWizard.java:66)
+	at org.eclipse.egit.ui.internal.push.PushMode$1.getWizard(PushMode.java:38)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushBranchDialog(PushOperationUI.java:496)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.doPushToUpstream(PushOperationUI.java:456)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushToUpstream(PushOperationUI.java:367)
+	at org.eclipse.egit.ui.internal.actions.SimplePushActionHandler.execute(SimplePushActionHandler.java:44)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 37 more
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2025-10-02 21:02:59.152
+!MESSAGE Command 'org.eclipse.egit.ui.team.SimplePush' failed
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error executing 'org.eclipse.egit.ui.team.SimplePush': java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:179)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:438)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:449)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:475)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4071)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
+Caused by: org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	... 33 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.Ref.getObjectId()" because "ref" is null
+	at org.eclipse.egit.ui.internal.push.PushBranchWizard.<init>(PushBranchWizard.java:66)
+	at org.eclipse.egit.ui.internal.push.PushMode$1.getWizard(PushMode.java:38)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushBranchDialog(PushOperationUI.java:496)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.doPushToUpstream(PushOperationUI.java:456)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.pushToUpstream(PushOperationUI.java:367)
+	at org.eclipse.egit.ui.internal.actions.SimplePushActionHandler.execute(SimplePushActionHandler.java:44)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 37 more
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:03:59.202
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:03:59.203
+!MESSAGE Существующий проект (на закрытии): Diplomempty, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-10-02 21:04:00.090
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:04:00.538
+!MESSAGE Project context is being stopped: Diplomempty (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:04:00.979
+!MESSAGE Project context is stopped: Diplomempty
+
+!ENTRY org.eclipse.core.jobs 2 2 2025-10-02 21:04:03.374
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.core.runtime.jobs.Job$2
+!SESSION 2025-10-02 21:06:36.086 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\MyDiplomTest
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:06:42.150
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:06:42.322
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-10-02 21:06:44.131
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\MyDiplomTest\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-10-02 21:06:44.716
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-10-02 21:06:53.096
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:06:56.011
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:06:56.014
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:07:05.709
+!MESSAGE Project context is being started: Diplomempty (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:08.115
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:08.117
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:08.920
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:08.929
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:10.045
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:07:15.171
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:07:15.498
+!MESSAGE Project context is started: Diplomempty
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:07:38.540
+!MESSAGE CPU overload. Memory 4046458072 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-10-02 21:07:40.860
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759421253617, extraInfo={syntaxError=false, offset=12151, line=320, length=30, uriToProblem=#RU#/Diplomempty/src/InformationRegisters/НастройкиСинхронизацииФайлов/Forms/ФормаЗаписи/\MBS/_method/ЭлементСправочникаНачалоВыбора/0}, message=Обработчик события "ЭлементСправочникаНачалоВыбора" следует разместить в области "ОбработчикиСобытийЭлементовШапкиФормы", severity=MINOR, sourceType=BslEditor, checkId=SU78, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU78
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/InformationRegisters/НастройкиСинхронизацииФайлов/Forms/ФормаЗаписи/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/InformationRegisters/НастройкиСинхронизацииФайлов/Forms/ФормаЗаписи/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MINOR
+  OBJECT_SEARCHING=РегистрСведений НастройкиСинхронизацииФайлов Форма ФормаЗаписи Форма Модуль
+  CHECK_UID_SEARCHING=module-structure-form-event-regions
+  SUBSYSTEMS_SEARCHING=
+
+!ENTRY com._1c.g5.v8.dt.validation 4 0 2025-10-02 21:08:09.982
+!MESSAGE Found marker duplicates:
+Marker [createdAt=1759421287309, extraInfo={syntaxError=false, offset=43825, line=1019, length=9, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S12}, message=Возвращается недекларируемое свойство: "Представление", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759421287309, extraInfo={syntaxError=false, offset=43825, line=1019, length=9, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S12}, message=Декларируемое свойство "ТипКонтактнойИнформации" с типом: "ПеречислениеСсылка.ТипыКонтактнойИнформации" не содержит возвращаемые типы "Неопределено", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759421287309, extraInfo={syntaxError=false, offset=41429, line=960, length=9, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S7/\IP/\S2}, message=Возвращается недекларируемое свойство: "Представление", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759421287309, extraInfo={syntaxError=false, offset=41429, line=960, length=9, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеКонтактнойИнформациейЛокализация/\MBS/0/\DS0/\I/\PP0/\I/\M2/\S7/\IP/\S2}, message=Декларируемое свойство "ТипКонтактнойИнформации" с типом: "ПеречислениеСсылка.ТипыКонтактнойИнформации" не содержит возвращаемые типы "Неопределено", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейЛокализация/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейЛокализация Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+Marker [createdAt=1759421287370, extraInfo={syntaxError=false, offset=3022, line=69, length=9, uriToProblem=#RU#/Diplomempty/src/\CMS/УправлениеКонтактнойИнформациейСлужебныйВызовСервера/\MBS/0/\DS0/\I/\M2/\S3}, message=Возвращается недекларируемое свойство: "Представление", severity=MAJOR, sourceType=BslEditor, checkId=SU22, featureId=-1, sourceObjectId=null, project=P/Diplomempty, getClass()=class com._1c.g5.v8.dt.validation.marker.PlainEObjectMarker]
+Instance count: 2
+Indexes:
+  CHECK_ID=SU22
+  PROJECT=Diplomempty
+  SOURCE_OBJECT_TOP_OBJECT_ID=
+  OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейСлужебныйВызовСервера/Module.bsl
+  LEGACY=false
+  TOP_OBJECT_ID=/Diplomempty/src/CommonModules/УправлениеКонтактнойИнформациейСлужебныйВызовСервера/Module.bsl
+  BRANCH_CHANGES=false
+  SOURCE_OBJECT_ID=
+  ISSUE_TYPE=CODE_STYLE
+  SEVERITY=MAJOR
+  OBJECT_SEARCHING=ОбщийМодуль УправлениеКонтактнойИнформациейСлужебныйВызовСервера Модуль
+  CHECK_UID_SEARCHING=constructor-function-return-section
+  SUBSYSTEMS_SEARCHING=СтандартныеПодсистемы КонтактнаяИнформация
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-10-02 21:08:15.876
+!MESSAGE Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+!STACK 0
+java.io.IOException: Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.fillBuffer(AutoLFInputStream.java:251)
+	at org.eclipse.jgit.util.io.AutoLFInputStream.read(AutoLFInputStream.java:207)
+	at java.base/java.io.InputStream.readNBytes(InputStream.java:506)
+	at org.eclipse.jgit.util.IO.readFully(IO.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:117)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectoryInserter.insert(ObjectDirectoryInserter.java:92)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:226)
+	at org.eclipse.egit.ui.internal.staging.StagingView$58.run(StagingView.java:3872)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:08:32.026
+!MESSAGE CPU overload. Memory 4013516872 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:08:34.328
+!MESSAGE Critical CPU overload. Memory 3947416560 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:08:36.444
+!MESSAGE Critical CPU overload. Memory 3861763616 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:08:55.734
+!MESSAGE CPU overload. Memory 3820627040 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:13:18.456
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:13:18.457
+!MESSAGE Существующий проект (на закрытии): Diplomempty, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-10-02 21:13:19.216
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:13:19.649
+!MESSAGE Project context is being stopped: Diplomempty (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:13:20.152
+!MESSAGE Project context is stopped: Diplomempty
+!SESSION 2025-10-02 21:13:23.628 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\MyDiplomTest
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:13:31.222
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:13:31.312
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-10-02 21:13:33.563
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-10-02 21:13:33.741
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\MyDiplomTest\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-10-02 21:13:42.491
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:13:45.815
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:13:45.856
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:13:53.129
+!MESSAGE Project context is being started: Diplomempty (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:13:56.033
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:13:56.034
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:13:56.789
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:13:56.801
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:13:57.945
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:14:04.659
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:14:05.514
+!MESSAGE Project context is started: Diplomempty
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-10-02 21:17:06.286
+!MESSAGE Stash create error
+!STACK 1
+org.eclipse.team.core.TeamException: HEAD required to stash local changes
+	at org.eclipse.egit.core.op.StashCreateOperation$1.run(StashCreateOperation.java:99)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.egit.core.op.StashCreateOperation.execute(StashCreateOperation.java:108)
+	at org.eclipse.egit.ui.internal.stash.StashCreateUI$1.runInWorkspace(StashCreateUI.java:82)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.team.core 4 0 2025-10-02 21:17:06.287
+!MESSAGE HEAD required to stash local changes
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:28:53.682
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:28:53.683
+!MESSAGE Существующий проект (на закрытии): Diplomempty, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-10-02 21:28:54.442
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:28:54.744
+!MESSAGE Project context is being stopped: Diplomempty (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:28:55.173
+!MESSAGE Project context is stopped: Diplomempty
+!SESSION 2025-10-02 21:29:01.281 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\MyDiplomTest
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:29:08.855
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:29:08.942
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-10-02 21:29:11.400
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-10-02 21:29:12.308
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\MyDiplomTest\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:29:12.415
+!MESSAGE CPU overload. Memory 4274277128 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:29:14.771
+!MESSAGE Critical CPU overload. Memory 4201698944 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-10-02 21:29:24.305
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:29:25.161
+!MESSAGE CPU overload. Memory 4236656320 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:29:29.309
+!MESSAGE CPU overload. Memory 4162539552 used of 4294967296
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:29:30.062
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 21:29:30.427
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:29:34.560
+!MESSAGE Project context is being started: Diplomempty (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:36.559
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:36.560
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:37.248
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:37.254
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:38.357
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:29:43.770
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:29:44.035
+!MESSAGE Project context is started: Diplomempty
+
+!ENTRY com._1c.g5.v8.derived 2 0 2025-10-02 21:36:11.949
+!MESSAGE Too long wait of DD computation finishing before exit
+Status: WAITING_STAGE_PROCCESING_END
+Stage: NORMAL
+Active stage lock: NORMAL
+Pipeline blocked externally: false
+
+
+!ENTRY com._1c.g5.v8.derived 2 0 2025-10-02 21:37:01.989
+!MESSAGE Too long wait of DD computation finishing before exit
+Status: WAITING_STAGE_PROCCESING_END
+Stage: NORMAL
+Active stage lock: NORMAL
+Pipeline blocked externally: false
+
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:37:10.288
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 21:37:10.289
+!MESSAGE Существующий проект (на закрытии): Diplomempty, открыт: true
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:37:10.487
+!MESSAGE Project context is being stopped: Diplomempty (CLEAN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-10-02 21:37:11.346
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:37:14.057
+!MESSAGE Project context is stopped: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 21:37:14.058
+!MESSAGE Project context is being started: Diplomempty (CLEAN_IMPORT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:37:14.061
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:37:14.064
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:37:14.130
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:37:14.137
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 21:37:14.542
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.derived 4 0 2025-10-02 21:37:16.064
+!MESSAGE org.ops4j.peaberry.ServiceUnavailableException: java.lang.IllegalStateException: Контекст комплекта больше не действителен com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014 [108]
+!STACK 0
+com._1c.g5.wiring.ServiceUnavailableException: org.ops4j.peaberry.ServiceUnavailableException: java.lang.IllegalStateException: Контекст комплекта больше не действителен com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014 [108]
+	at com._1c.g5.internal.wiring.ConfigurableImportDecorator$ConfigurableImport.get(ConfigurableImportDecorator.java:101)
+	at org.ops4j.peaberry.util.DelegatingImport.get(DelegatingImport.java:44)
+	at org.ops4j.peaberry.util.decorators.StickyDecorator$StickyImport.get(StickyDecorator.java:81)
+	at com._1c.g5.v8.dt.cmi.ICommandInterfaceAccessor$pbryglu.getRoot(Unknown Source)
+	at com._1c.g5.v8.dt.internal.cmi.bm.derived.CmiDerivedDataContributor$22.collectContext(CmiDerivedDataContributor.java:1357)
+	at com._1c.g5.v8.internal.derived.context.ContextCollector.collectContextOnObjectAssociation(ContextCollector.java:122)
+	at com._1c.g5.v8.internal.derived.BmRawEventHandler.collectScopeOnObjectAssociation(BmRawEventHandler.java:374)
+	at com._1c.g5.v8.internal.derived.BmRawEventHandler$1.execute(BmRawEventHandler.java:531)
+	at com._1c.g5.v8.internal.derived.BmRawEventHandler$1.execute(BmRawEventHandler.java:1)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.LegacyTaskWrapper.execute(LegacyTaskWrapper.java:48)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeTask(Reactor.java:842)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeTask(Reactor.java:777)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeReadOnlyTask(Reactor.java:151)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.BmModel.executeReadonlyTask(BmModel.java:225)
+	at com._1c.g5.v8.internal.derived.BmRawEventHandler.handleEvent(BmRawEventHandler.java:523)
+	at com._1c.g5.v8.internal.derived.BmRawEventHandler.handleSyncEvent(BmRawEventHandler.java:156)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.event.BmSyncEventListenerManager.dispatch(BmSyncEventListenerManager.java:62)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.event.StandardEventManager.dispatchSyncEvent(StandardEventManager.java:224)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.performEventProcessing(Reactor.java:925)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.handleEvent(Reactor.java:893)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.lambda$2(Reactor.java:192)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeTask(Reactor.java:857)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeTask(Reactor.java:777)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.integration.reactor.Reactor.executeTask(Reactor.java:183)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.BmModelManager.executeReadWriteTask(BmModelManager.java:562)
+	at com._1c.g5.v8.dt.core.platform.IBmModelManager$pbryglu.executeReadWriteTask(Unknown Source)
+	at com._1c.g5.v8.dt.core.provider.TransactionalBmContentImporter.executeImportInContextIfNecessary(TransactionalBmContentImporter.java:145)
+	at com._1c.g5.v8.dt.core.provider.TransactionalBmContentImporter.handleResourceCreationOrModification(TransactionalBmContentImporter.java:73)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.derived.ImportTaskProcessor.importUnsyncedFile(ImportTaskProcessor.java:155)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.derived.ImportTaskProcessor.compute(ImportTaskProcessor.java:97)
+	at com._1c.g5.v8.internal.derived.WorkerManager$TaskProcessor.processTask(WorkerManager.java:364)
+	at com._1c.g5.v8.internal.derived.WorkerManager$TaskProcessor.call(WorkerManager.java:172)
+	at com._1c.g5.v8.internal.derived.WorkerManager$TaskProcessor.call(WorkerManager.java:1)
+	at com._1c.g5.v8.internal.derived.scheduler.DerivedDataExecutorPool$3.get(DerivedDataExecutorPool.java:314)
+	at com._1c.g5.v8.internal.derived.scheduler.DerivedDataExecutorPool$3.get(DerivedDataExecutorPool.java:1)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: org.ops4j.peaberry.ServiceUnavailableException: java.lang.IllegalStateException: Контекст комплекта больше не действителен com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014 [108]
+	at org.ops4j.peaberry.cache.AbstractServiceImport.get(AbstractServiceImport.java:74)
+	at org.ops4j.peaberry.internal.ConcurrentImport.get(ConcurrentImport.java:57)
+	at org.ops4j.peaberry.util.DelegatingImport.get(DelegatingImport.java:44)
+	at com._1c.g5.internal.wiring.ConfigurableImportDecorator$ConfigurableImport.get(ConfigurableImportDecorator.java:73)
+	... 38 more
+Caused by: java.lang.IllegalStateException: Контекст комплекта больше не действителен com._1c.g5.v8.dt.cmi.ui_4.1.100.v202504211014 [108]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:1031)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getService(BundleContextImpl.java:656)
+	at org.ops4j.peaberry.osgi.OSGiServiceImport.acquireService(OSGiServiceImport.java:60)
+	at org.ops4j.peaberry.cache.AbstractServiceImport.get(AbstractServiceImport.java:72)
+	... 41 more
+
+!ENTRY com._1c.g5.v8.derived 4 0 2025-10-02 21:37:35.737
+!MESSAGE DD pipeline has running computations left during block attempt
+!STACK 0
+java.lang.IllegalStateException: DD pipeline has running computations left during block attempt
+	at com._1c.g5.v8.internal.derived.DerivedDataManager.blockAsyncPipeline(DerivedDataManager.java:311)
+	at com._1c.g5.v8.internal.derived.DerivedDataManager.blockAsyncPipeline(DerivedDataManager.java:276)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.DerivedDataManagerProvider.resourceUnloading(DerivedDataManagerProvider.java:390)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:220)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.cleanRestartProjects(WorkspaceOrchestrator.java:324)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.doRestart(ProjectRestartJob.java:75)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.run(ProjectRestartJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:42.494
+!MESSAGE CPU overload. Memory 3879919352 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:44.777
+!MESSAGE Critical CPU overload. Memory 3881821048 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:47.350
+!MESSAGE Critical CPU overload. Memory 3883463368 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:49.476
+!MESSAGE Critical CPU overload. Memory 3883487976 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:55.675
+!MESSAGE CPU overload. Memory 3883533224 used of 4294967296
+
+!ENTRY com._1c.g5.v8.derived 4 0 2025-10-02 21:37:56.131
+!MESSAGE DD pipeline has running computations left during block attempt
+!STACK 0
+java.lang.IllegalStateException: DD pipeline has running computations left during block attempt
+	at com._1c.g5.v8.internal.derived.DerivedDataManager.blockAsyncPipeline(DerivedDataManager.java:311)
+	at com._1c.g5.v8.internal.derived.DerivedDataManager.blockAsyncPipeline(DerivedDataManager.java:276)
+	at com._1c.g5.v8.internal.derived.DerivedDataManager.stop(DerivedDataManager.java:905)
+	at com._1c.g5.v8.internal.derived.DerivedDataBmProvider.close(DerivedDataBmProvider.java:173)
+	at com._1c.g5.v8.dt.internal.core.platform.bm.DerivedDataManagerProvider.close(DerivedDataManagerProvider.java:162)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:220)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.cleanRestartProjects(WorkspaceOrchestrator.java:324)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.doRestart(ProjectRestartJob.java:75)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.run(ProjectRestartJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 21:37:58.493
+!MESSAGE Critical CPU overload. Memory 3885181504 used of 4294967296
+
+!ENTRY org.eclipse.core.jobs 4 2 2025-10-02 21:37:59.177
+!MESSAGE Произошла внутренняя ошибка: "Перезапуск сервисов проекта".
+!STACK 0
+com._1c.g5.v8.dt.lifecycle.LifecycleException: Failed to perform phase RESOURCE_LOADING for context ProjectContext: Diplomempty
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:281)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startContext(ServicesOrchestrator.java:209)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.startServices(ServicesOrchestrator.java:78)
+	at com._1c.g5.v8.dt.lifecycle.IServicesOrchestrator$pbryglu.startServices(Unknown Source)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.startContext(WorkspaceOrchestrator.java:873)
+	at com._1c.g5.v8.dt.internal.core.platform.WorkspaceOrchestrator.cleanRestartProjects(WorkspaceOrchestrator.java:324)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.doRestart(ProjectRestartJob.java:75)
+	at com._1c.g5.v8.dt.core.lifecycle.ProjectRestartJob.run(ProjectRestartJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.RuntimeException: com._1c.g5.v8.dt.lifecycle.LifecycleException: No Configuration object was found - project start is impossible
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:224)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:1)
+	at com._1c.g5.v8.dt.internal.lifecycle.ServicesOrchestrator.performPhase(ServicesOrchestrator.java:270)
+	... 8 more
+Caused by: com._1c.g5.v8.dt.lifecycle.LifecycleException: No Configuration object was found - project start is impossible
+	at com._1c.g5.v8.dt.internal.core.platform.ConfigurationProjectManager.start(ConfigurationProjectManager.java:391)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com._1c.g5.v8.dt.internal.lifecycle.AnnotationRegistration$LifecyclePhaseParticipantMethodInvocation.accept(AnnotationRegistration.java:214)
+	... 10 more
+!SESSION 2025-10-02 22:11:32.315 -----------------------------------------------
+eclipse.buildId=2024.2.5.16
+java.version=17.0.14
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c\Workapaces\MyDiplomTest
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:11:42.429
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:11:42.584
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-10-02 22:11:44.055
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c\Workapaces\MyDiplomTest\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2025-10-02 22:11:44.736
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-10-02 22:11:54.706
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 22:11:59.603
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-10-02 22:11:59.708
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:12:00.837
+!MESSAGE CPU overload. Memory 4177190176 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:12:14.209
+!MESSAGE Project context is being started: Diplomempty (EXISTING_DATA_IMPORT)
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:12:16.951
+!MESSAGE CPU overload. Memory 4173731536 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:12:17.968
+!MESSAGE Starting phase LINKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:12:17.974
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:12:18.621
+!MESSAGE Starting phase CHECKING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:12:18.626
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:12:19.774
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:12:41.234
+!MESSAGE CPU overload. Memory 3892546040 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:08.415
+!MESSAGE Sustained CPU overload. Memory 3802068464 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:20.282
+!MESSAGE Critical CPU overload. Memory 3830735440 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:22.518
+!MESSAGE Critical CPU overload. Memory 4132871928 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:24.607
+!MESSAGE Critical CPU overload. Memory 3985966008 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:26.662
+!MESSAGE Critical CPU overload. Memory 4104271416 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:30.273
+!MESSAGE Critical CPU overload. Memory 4148805536 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:32.318
+!MESSAGE Critical CPU overload. Memory 4196332424 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:37.015
+!MESSAGE CPU overload. Memory 3901941024 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:47.505
+!MESSAGE CPU overload. Memory 3933679040 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:51.812
+!MESSAGE CPU overload. Memory 4145190360 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 22:13:52.854
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-10-02 22:13:52.991
+!MESSAGE Существующий проект (на закрытии): Diplomempty, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-10-02 22:13:53.613
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:56.740
+!MESSAGE Sustained CPU overload. Memory 3773431672 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:13:58.911
+!MESSAGE Critical CPU overload. Memory 3775321352 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:14:35.939
+!MESSAGE CPU overload. Memory 3900565120 used of 4294967296
+
+!ENTRY com._1c.g5.v8.internal.resourcemanagement.ResourceManagementPlugin 2 0 2025-10-02 22:14:39.871
+!MESSAGE Critical CPU overload. Memory 3914168320 used of 4294967296
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-10-02 22:14:43.509
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:14:43.927
+!MESSAGE Project context is started: Diplomempty
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:14:43.935
+!MESSAGE Project context is being stopped: Diplomempty (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-10-02 22:14:44.670
+!MESSAGE Project context is stopped: Diplomempty
