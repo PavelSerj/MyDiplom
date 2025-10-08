@@ -51,6 +51,7 @@
         <value>2</value>
       </code>
       <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</displaced>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>
