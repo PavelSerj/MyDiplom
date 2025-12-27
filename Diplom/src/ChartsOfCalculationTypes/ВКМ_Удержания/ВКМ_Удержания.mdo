@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:ChartOfCalculationTypes xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="03c6b831-ad03-4d46-a373-0ffba906cd38">
+<mdclass:ChartOfCalculationTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="03c6b831-ad03-4d46-a373-0ffba906cd38">
   <producedTypes>
     <objectType typeId="ba7633ad-f1c2-43b9-ba4f-f94d3bc2fe47" valueTypeId="f48fadc8-cbe3-423f-b868-3e4c047a523c"/>
     <refType typeId="d74d4236-4db5-4676-bdae-295149c8da8a" valueTypeId="fae9e6bb-a38b-4234-a3af-dfa2c56a0643"/>
@@ -32,4 +32,13 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <predefined>
+    <items id="f4a0f872-a636-4562-840a-545c5d3ca47e">
+      <name>Налог</name>
+      <description>Налог</description>
+      <code xsi:type="core:StringValue">
+        <value>1</value>
+      </code>
+    </items>
+  </predefined>
 </mdclass:ChartOfCalculationTypes>

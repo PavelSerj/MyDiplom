@@ -24,4 +24,5 @@
   <content>DataProcessor.ВКМ_ЗаполениеГрафика</content>
   <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
 </mdclass:Subsystem>
