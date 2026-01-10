@@ -30,13 +30,25 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Номенклатура</dataPath>
+			<field>Номенклатура</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Сумма</dataPath>
+			<field>Сумма</field>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ВКМ_ВыполненныеКлиентуРаботыОстатки.Клиент,
 	ВКМ_ВыполненныеКлиентуРаботыОстатки.Договор,
-	ЕСТЬNULL(ВКМ_ВыполненныеКлиентуРаботыОстатки.СуммаКОплатеОстаток, 0) КАК СуммаКОплате
+	ЕСТЬNULL(ВКМ_ВыполненныеКлиентуРаботыОстатки.СуммаКОплатеОстаток, 0) КАК СуммаКОплате,
+	РеализацияТоваровУслугУслуги.Номенклатура,
+	РеализацияТоваровУслугУслуги.Сумма
 ИЗ
-	РегистрНакопления.ВКМ_ВыполненныеКлиентуРаботы.Остатки КАК ВКМ_ВыполненныеКлиентуРаботыОстатки</query>
+	Документ.РеализацияТоваровУслуг.Услуги КАК РеализацияТоваровУслугУслуги
+		ЛЕВОЕ СОЕДИНЕНИЕ РегистрНакопления.ВКМ_ВыполненныеКлиентуРаботы.Остатки КАК ВКМ_ВыполненныеКлиентуРаботыОстатки
+		ПО РеализацияТоваровУслугУслуги.Ссылка.Контрагент = ВКМ_ВыполненныеКлиентуРаботыОстатки.Клиент</query>
 	</dataSet>
 	<parameter>
 		<name>Период</name>
@@ -65,6 +77,12 @@
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>Договор</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>Номенклатура</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>Сумма</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>СуммаКОплате</dcsset:field>
