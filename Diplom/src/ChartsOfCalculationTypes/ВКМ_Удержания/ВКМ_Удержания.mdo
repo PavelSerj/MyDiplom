@@ -36,12 +36,15 @@
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</baseCalculationTypes>
   <predefined>
-    <items id="f4a0f872-a636-4562-840a-545c5d3ca47e">
+    <items id="87ba63ff-0b9e-48e7-9547-311493cc3da6">
       <name>Налог</name>
       <description>Налог</description>
       <code xsi:type="core:StringValue">
         <value>1</value>
       </code>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
+      <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Премия</base>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>
